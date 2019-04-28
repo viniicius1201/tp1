@@ -1,0 +1,6 @@
+1#1#1#1#Novo compromisso
+1#1#10#10#English exam
+1#1#14#30#Calculus exam
+1#10#15#30#Dentista (10 jan)
+1#10#17#20#Curso de frances (10 jan)
+2#25#10#5#Ir ao banco (25 fev)
